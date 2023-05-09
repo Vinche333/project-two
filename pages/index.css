@@ -10,14 +10,42 @@
 @import url(../blocks/header/_square-pic/header__square-pic.css);
 
 @import url(../blocks/description/description.css);
-@import url(../blocks/description/two-columns/two-columns.css);
-@import url(../blocks/description/two-columns/_brief/two-columns__brief.css);
-@import url(../blocks/description/two-columns/_main-text/two-columns__main-text.css);
-@import url(../blocks/description/two-columns/_paragraph/two-columns__paragraph.css);
-@import url(../blocks/description/two-columns/_span-accent/two-columns__span-accent.css);
+@import url(../blocks/two-columns/two-columns.css);
+@import url(../blocks/two-columns/_brief/two-columns__brief.css);
+@import url(../blocks/two-columns/_main-text/two-columns__main-text.css);
+@import url(../blocks/two-columns/_paragraph/two-columns__paragraph.css);
+@import url(../blocks/two-columns/_span-accent/two-columns__span-accent.css);
 
 @import url(../blocks/feynman/feynman.css);
 @import url(../blocks/feynman/_title/feynman__title.css);
 @import url(../blocks/feynman/_subtitle/feynman__subtitle.css);
 @import url(../blocks/feynman/_link/feynman__link.css);
 @import url(../blocks/feynman/_illustration/feynman__illustration.css);
+
+@import url(../blocks/digits/digits.css);
+@import url(../blocks/section-title/section-title.css);
+@import url(../blocks/section-subtitle/section-subtitle.css);
+@import url(../blocks/table/table.css);
+@import url(../blocks/table/_cell/table__cell.css);
+@import url(../blocks/table/_heading/table__heading.css);
+@import url(../blocks/table/_text/table__text.css);
+
+@import url(../blocks/kaufman/kaufman.css);
+@import url(../blocks/table/_theme/table_theme_dark.css);
+@import url(../blocks/table/_theme/_cell/table__cell_theme_dark.css);
+@import url(../blocks/table/_theme/_heading/table__heading_theme_dark.css);
+@import url(../blocks/table/_theme/_text/table__text_theme_dark.css);
+@import url(../blocks/section-subtitle/_theme/section-subtitle_theme_dark.css);
+@import url(../blocks/section-title/_theme/section-title_theme_dark.css);
+@import url(../blocks/kaufman/_triangle/kaufman__triangle.css);
+
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/_author/footer__author.css);
+@import url(../blocks/footer/_columns/footer__columns.css);
+@import url(../blocks/footer/_column/footer__column-heading.css);
+@import url(../blocks/footer/_column/footer__column-link.css);
+@import url(../blocks/footer/_column/footer__column-links.css);
+@import url(../blocks/footer/_column/_content/_copyright/footer__column_content_copyright.css);
+@import url(../blocks/footer/_column/_content/_info/footer__column_content_info.css);
+@import url(../blocks/footer/_column/_content/_social/footer__column_content_social.css);
+@import url(../blocks/footer/_column/_content/_social/footer__social-icon.css);
