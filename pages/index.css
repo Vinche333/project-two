@@ -66,3 +66,14 @@
 @import url(../blocks/khan/_quote-author/khan__qoute-author.css);
 @import url(../blocks/khan/_quote-author-subline/khan__quote-author-subline.css);
 @import url(../blocks/khan/_title/khan__title.css);
+
+@import url(../blocks/techniques/techniques.css);
+@import url(../blocks/cards/cards.css);
+@import url(../blocks/cards/_description/cards__description.css);
+@import url(../blocks/cards/_image/cards__image.css);
+@import url(../blocks/cards/_item/cards__item.css);
+@import url(../blocks/cards/_title/cards__title.css);
+
+@import url(../blocks/video/video.css);
+@import url(../blocks/video/_iframe/video__iframe.css);
+@import url(../blocks/video/_iframes/video__iframes.css);
