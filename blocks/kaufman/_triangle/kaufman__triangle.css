@@ -4,11 +4,8 @@
   position: absolute;
   right: -210px;
   top:0;
-  background-image: url("");
-  background-size: cover;
   z-index: -1;
-  border-style: solid;
-  border-width: 0 100px 173.2px 100px;
-  border-color: transparent transparent #007bff transparent;
-  animation: 4s linear 0s infinite rotation;
+  background-image: url(../kaufman-triangle.svg);
+  background-size: cover;
+  animation:rotation 20s linear infinite;
 }
